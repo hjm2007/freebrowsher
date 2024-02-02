@@ -33,6 +33,10 @@ FreeBrowsher，是一款基于 `ChromeGo` 的翻墙浏览器；轻量且强大�
 
 ---
 
+
+# 致谢
+- [Alvin9999](https://github.com/Alvin9999/pac2/tree/master)
+
 # 贡献
 
 - ✨进入Issue提交反馈
