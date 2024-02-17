@@ -35,6 +35,8 @@ FreeBrowsher，是一款基于 `ChromeGo` 的翻墙浏览器；轻量且强大�
 
 为了防止出现问题，建议卸载国内杀毒软件(除火绒)。若需要，建议使用国外的Avast杀毒，防火墙simplewall和清理软件CClear，它们都是免费的，而且不影响电脑运行。
 
+针对较旧的Chrome浏览器若无法在官方商店安装扩展请进入[这里](https://chrome.google.com/webstore/category/home)安装
+
 ---
 
 
