@@ -55,8 +55,6 @@ win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新
 
 - [Theinitium镜像(CF Worker)](https://theinitium.hhaann.eu.org)
 
-- [BBC中文镜像(CF Worker)](https://bbc.hhaann.eu.org/zhongwen/simp/)
-
 # 贡献
 
 - ✨进入Issue提交反馈
