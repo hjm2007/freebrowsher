@@ -17,7 +17,7 @@ Windows 7 32位(最低)
 
 # 使用
 
-- 点击"Releases"下载；
+- 点击"Releases"下载(国内镜像:https://www.123pan.com/s/D6EqVv-RpbLH.html)；
 - 解压到一个干净目录；
 - 运行"开始.bat"；
 - 若要更新IP，请运行"网络设置.bat"并按提示操作
