@@ -50,6 +50,7 @@ win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新
 
 # 致谢
 - [Alvin9999](https://github.com/Alvin9999/pac2/tree/master)
+- [win32ss](https://github.com/win32ss/supermium)
 
 # 快捷链接
 
