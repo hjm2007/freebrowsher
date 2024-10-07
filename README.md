@@ -43,6 +43,8 @@ win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新
 
 针对较旧的Chrome浏览器若无法在官方商店安装扩展请进入[这里](https://chrome.google.com/webstore/category/home)安装
 
+## 2024-10-07：部分较旧系统(即Windows 10至Windows 7 32位)可以使用Supermium浏览器
+
 ---
 
 
