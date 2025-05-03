@@ -45,6 +45,8 @@ win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新
 
 ## 2024-10-07：部分较旧系统(即Windows 10至Windows 7 32位)可以使用Supermium浏览器
 
+## 2025-05-03：HTTP(SOCKS)端口请以"Xray"目录下"config.json"文件为准
+
 ---
 
 
