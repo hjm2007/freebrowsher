@@ -41,7 +41,6 @@ win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新
 
 为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如360安全卫生、360杀毒软件、腾讯管家、金山卫士等不仅仅会起干扰作用，造成软件无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系！可以使用[windows自带的defender杀毒软件](https://docs.microsoft.com/zh-cn/microsoft-365/security/defender-endpoint/microsoft-defender-antivirus-windows?view=o365-worldwide)，防火墙simplewall，它们都是免费的，而且不会干扰电脑运行。
 
-针对较旧的Chrome浏览器若无法在官方商店安装扩展请进入[这里](https://chrome.google.com/webstore/category/home)安装
 
 ## 2024-10-07：部分较旧系统(即Windows 10至Windows 7 32位)可以使用Supermium浏览器
 
