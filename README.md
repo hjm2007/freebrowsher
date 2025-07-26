@@ -6,7 +6,7 @@ FreeBrowsher，是一款基于 `ChromeGo` 的翻墙浏览器；轻量且强大�
 
 # 功能
 
-- 老板键(Firefox版：Ctrl + Shift + ~；Chrome版：Ctrl+Alt+B；
+- 老板键(Firefox版：Ctrl + Shift + ~；Chrome版：Ctrl+Alt+B)；
 - Noscript：保护浏览器不受非法网站攻击；
 - 自动浏览器清理插件：防止隐私泄漏；
 - 更新IP
