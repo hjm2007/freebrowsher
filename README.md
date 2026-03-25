@@ -57,8 +57,6 @@ win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新
 
 - [PPY作品镜像](https://github.com/hjm2007/ppymirror)
 
-- [Theinitium镜像(CF Worker)](https://theinitium.hhaann.eu.org)
-
 # 贡献
 
 - ✨进入Issue提交反馈
